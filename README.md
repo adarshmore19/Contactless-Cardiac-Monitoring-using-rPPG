@@ -114,4 +114,4 @@ Exploring how **computer vision + signal processing** can enable **non-contact h
 
 ---
 
-> Built with curiosity, caffeine, questionable decision and sleep schedules ☕
+> Built with curiosity, caffeine, questionable decisions and sleep schedules ☕
